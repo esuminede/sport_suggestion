@@ -8,7 +8,7 @@ Gençlik ve Spor Bakanlığı tarafından düzenlenen Yapay Zeka Hackathonu'nda,
 🔗 Yarışma hakkında detaylı bilgiye buradan ulaşabilirsiniz:  
 [https://genchackathon.gsb.gov.tr/guncel-yarismalar/index.html](https://genchackathon.gsb.gov.tr/guncel-yarismalar/index.html)
 
-![Proje Görseli](/assets/derece.png)
+![Proje Görseli](/assets/derece.PNG)
 
 
 📄 Proje tanıtım dokümanını incelemek isterseniz [buradan PDF'e ulaşabilirsiniz.](/assets/Şöbiyet%20Grubu%20-%20Spor%20Öneri%20Platformu%20Heckhaton%20Proje%20Raporu.pdf)

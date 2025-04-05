@@ -11,7 +11,7 @@ Gençlik ve Spor Bakanlığı tarafından düzenlenen Yapay Zeka Hackathonu'nda,
 ![Proje Görseli](/assets/derece.png)
 
 
-📄 Proje tanıtım dokümanını incelemek isterseniz [buradan PDF'e ulaşabilirsiniz.](../assets/Şöbiyet%20Grubu%20-%20Spor%20Öneri%20Platformu%20Heckhaton%20Proje%20Raporu.pdf)
+📄 Proje tanıtım dokümanını incelemek isterseniz [buradan PDF'e ulaşabilirsiniz.](/assets/Şöbiyet%20Grubu%20-%20Spor%20Öneri%20Platformu%20Heckhaton%20Proje%20Raporu.pdf)
 
 Bu dokümanda; projenin amacı, hedef kitlesi, kullanılan teknolojiler, veri seti süreci, modelleme ve değerlendirme adımları detaylı bir şekilde açıklanmıştır.
 
@@ -34,7 +34,7 @@ Aşağıdaki GIF ile uygulamanın nasıl çalıştığını hızlıca görebilir
    - Model eğitimi için gerekli yönergeleri burada bulacaksınız.
    - Eğitimi Docker üzerinde yapacağınızdan dolayı **spesifik kütüphane kurulumu gerekmemektedir.**
    - Eğitilen `pickle` modelinizi `sport_suggestion/models` klasörünün içine koymayı unutmayınız.
-   - [Model Eğitim README'ine Gitmek İçin Tıklayın](https://github.com/AysenurYrr/sport_suggestion/tree/main/MLE_scripts)
+   - ![Model Eğitim README'ine Gitmek İçin Tıklayın](/MLE_scripts/README.md)
 
 2. **HuggingFace API Key Alın**
    - HuggingFace hesabı oluşturun: https://huggingface.co

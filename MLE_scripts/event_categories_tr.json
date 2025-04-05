@@ -1,0 +1,436 @@
+{
+    "Halter Kaldırma": {
+      "Ağır Siklet": [
+        "Weightlifting Men's Super-Heavyweight",
+        "Weightlifting Men's Heavyweight",
+        "Weightlifting Men's Middle-Heavyweight"
+      ],
+      "Orta Siklet": [
+        "Weightlifting Men's Light-Heavyweight",
+        "Weightlifting Men's Middleweight"
+      ],
+      "Hafif Siklet": [
+        "Weightlifting Men's Lightweight",
+        "Weightlifting Men's Featherweight",
+        "Weightlifting Men's Bantamweight"
+      ]
+    },
+  
+    "Box": {
+      "Hafif Siklet Hız": [
+        "Boxing Men's Light-Flyweight",
+        "Boxing Men's Flyweight",
+        "Boxing Men's Bantamweight",
+        "Boxing Men's Featherweight",
+        "Boxing Men's Lightweight",
+        "Boxing Men's Light-Welterweight"
+      ],
+      "Orta Siklet Hız ve Güç": [
+        "Boxing Men's Welterweight",
+        "Boxing Men's Light-Middleweight",
+        "Boxing Men's Middleweight"
+      ],
+      "Ağır Siklet Güç": [
+        "Boxing Men's Light-Heavyweight",
+        "Boxing Men's Heavyweight",
+        "Boxing Men's Super-Heavyweight"
+      ]
+    },
+  
+    "Güreş": {
+      "Hafif Siklet Hız": [
+        "Wrestling Men's Flyweight, Greco-Roman",
+        "Wrestling Men's Flyweight, Freestyle",
+        "Wrestling Men's Bantamweight, Greco-Roman",
+        "Wrestling Men's Bantamweight, Freestyle",
+        "Wrestling Men's Featherweight, Greco-Roman",
+        "Wrestling Men's Featherweight, Freestyle"
+      ],
+      "Orta Siklet Karışık": [
+        "Wrestling Men's Lightweight, Greco-Roman",
+        "Wrestling Men's Lightweight, Freestyle",
+        "Wrestling Men's Welterweight, Greco-Roman",
+        "Wrestling Men's Welterweight, Freestyle",
+        "Wrestling Men's Middleweight, Greco-Roman",
+        "Wrestling Men's Middleweight, Freestyle",
+        "Wrestling Men's Light-Heavyweight, Greco-Roman",
+        "Wrestling Men's Light-Heavyweight, Freestyle"
+      ],
+      "Ağır Siklet Güç": [
+        "Wrestling Men's Heavyweight, Greco-Roman",
+        "Wrestling Men's Heavyweight, Freestyle",
+        "Wrestling Men's Super-Heavyweight, Greco-Roman",
+        "Wrestling Men's Super-Heavyweight, Freestyle"
+      ]
+    },
+  
+    "judo": {
+      "Hafif Siklet Hız": [
+        "Judo Men's Extra-Lightweight",
+        "Judo Men's Half-Lightweight",
+        "Judo Women's Extra-Lightweight"
+      ],
+      "Orta Siklet Hız ve Güç": [
+        "Judo Men's Lightweight",
+        "Judo Men's Half-Middleweight",
+        "Judo Men's Middleweight",
+        "Judo Women's Half-Middleweight"
+      ],
+      "Ağır Siklet Güç": [
+        "Judo Men's Half-Heavyweight",
+        "Judo Men's Heavyweight"
+      ]
+    },
+  
+    "Kuvvet Odaklı Güç Atıcılığı": [
+      "Athletics Men's Shot Put",
+      "Athletics Men's Discus Throw",
+      "Athletics Men's Hammer Throw",
+      "Athletics Men's Javelin Throw",
+      "Athletics Women's Shot Put",
+      "Athletics Women's Discus Throw",
+      "Athletics Women's Hammer Throw",
+      "Athletics Women's Javelin Throw"
+    ],
+  
+    "Hız Odaklı": {
+      "Yüzme": [
+        "Swimming Men's 50 metres Freestyle",
+        "Swimming Men's 100 metres Freestyle",
+        "Swimming Men's 100 metres Butterfly",
+        "Swimming Men's 100 metres Breaststroke",
+        "Swimming Men's 100 metres Backstroke",
+        "Swimming Men's 4 x 100 metres Freestyle Relay",
+        "Swimming Women's 50 metres Freestyle",
+        "Swimming Women's 100 metres Freestyle",
+        "Swimming Women's 100 metres Butterfly",
+        "Swimming Women's 100 metres Breaststroke",
+        "Swimming Women's 100 metres Backstroke",
+        "Swimming Women's 4 x 100 metres Freestyle Relay"
+      ],
+      "Atletizm": [
+        "Athletics Men's 100 metres",
+        "Athletics Men's 200 metres",
+        "Athletics Men's 400 metres",
+        "Athletics Men's 4 x 100 metres Relay",
+        "Athletics Women's 100 metres",
+        "Athletics Women's 200 metres",
+        "Athletics Women's 400 metres",
+        "Athletics Women's 4 x 100 metres Relay"
+      ],
+      "Sürat Pateni": [
+        "Short Track Speed Skating Women's 500 metres",
+        "Speed Skating Men's 500 metres",
+        "Speed Skating Women's 500 metres",
+        "Speed Skating Men's 1,500 metres"
+      ],
+      "Bisiklet": [
+        "Cycling Men's Sprint",
+        "Cycling Men's 1,000 metres Time Trial"
+      ]
+    },
+  
+  
+    "Dayanıklılık Odaklı": {
+      "Koşu": [
+        "Athletics Men's 800 metres",
+        "Athletics Men's 1,500 metres",
+        "Athletics Men's 5,000 metres",
+        "Athletics Men's 10,000 metres",
+        "Athletics Men's Marathon",
+        "Athletics Men's 20 kilometres Walk",
+        "Athletics Men's 50 kilometres Walk",
+        "Athletics Women's 800 metres",
+        "Athletics Women's 1,500 metres",
+        "Athletics Women's 5,000 metres",
+        "Athletics Women's 10,000 metres",
+        "Athletics Women's Marathon",
+        "Athletics Women's 20 kilometres Walk"
+      ],
+      "Uzun Orta Mesafe Yüzme": [
+        "Swimming Men's 1,500 metres Freestyle",
+        "Swimming Women's 400 metres Freestyle"
+      ],
+      "Triatlon": [
+        "Triathlon Men's Olympic Distance",
+        "Triathlon Women's Olympic Distance"
+      ],
+      "Kros Kayağı": [
+        "Cross Country Skiing Men's 10 kilometres",
+        "Cross Country Skiing Men's 15 kilometres",
+        "Cross Country Skiing Men's 30 kilometres",
+        "Cross Country Skiing Men's 50 kilometres",
+        "Cross Country Skiing Men's Sprint",
+        "Cross Country Skiing Women's 5 kilometres",
+        "Cross Country Skiing Women's 10 kilometres",
+        "Cross Country Skiing Women's Sprint"
+      ],
+      "Sürat Pateni": [
+        "Speed Skating Men's 5,000 metres"
+      ],
+      "Yol Bisikleti": [
+        "Cycling Men's Road Race, Individual",
+        "Cycling Men's 100 kilometres Team Time Trial",
+        "Cycling Men's Mountainbike, Cross-Country",
+        "Cycling Women's Road Race, Individual",
+        "Cycling Women's Mountainbike, Cross-Country"
+      ],
+      "Biatlon": [
+        "Biathlon Men's 20 kilometres",
+        "Biathlon Men's 10 kilometres Sprint",
+        "Biathlon Women's 7.5 kilometres Sprint"
+      ]
+    },
+  
+    "Hassas Nişancılık": {
+      "Okçuluk": [
+        "Archery Men's Individual",
+        "Archery Women's Individual"
+      ],
+      "Ateşli Silah Atıcılığı": [
+        "Shooting Men's Air Rifle, 10 metres",
+        "Shooting Women's Air Rifle, 10 metres",
+        "Shooting Men's Air Pistol, 10 metres",
+        "Shooting Women's Air Pistol, 10 metres",
+        "Shooting Men's Rapid-Fire Pistol, 25 metres",
+        "Shooting Men's Free Pistol, 50 metres",
+        "Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",
+        "Shooting Men's Small-Bore Rifle, Prone, 50 metres",
+        "Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres",
+        "Shooting Mixed Small-Bore Rifle, Prone, 50 metres",
+        "Shooting Mixed Free Pistol, 50 metres",
+        "Shooting Men's Skeet",
+        "Shooting Mixed Skeet",
+        "Shooting Mixed Trap",
+        "Shooting Men's Trap"
+      ]
+    },
+  
+    "Artistik Estetik Değerlendirmeli": {
+      "Buz Pateni": [
+        "Figure Skating Men's Singles",
+        "Figure Skating Women's Singles",
+        "Figure Skating Mixed Pairs",
+        "Figure Skating Mixed Ice Dancing"
+      ],
+      "Jimnastik": [
+        "Gymnastics Men's Individual All-Around",
+        "Gymnastics Women's Individual All-Around"
+      ],
+      "Dalgıçlık": [
+        "Diving Men's Platform",
+        "Diving Men's Springboard",
+        "Diving Women's Platform",
+        "Diving Women's Springboard"
+      ],
+      "Senkronize Yüzme": [
+        "Synchronized Swimming Women's Solo",
+        "Synchronized Swimming Women's Duet",
+        "Synchronized Swimming Women's Team"
+      ],
+      "Ritmik Jimnastik": [
+        "Rhythmic Gymnastics Women's Individual",
+        "Rhythmic Gymnastics Women's Group"
+      ],
+      "Serbest Stil Kayak": [
+        "Freestyle Skiing Women's Moguls",
+        "Freestyle Skiing Men's Moguls"
+      ],
+      "Snowboard": [
+        "Snowboarding Men's Halfpipe"
+      ]
+    },
+  
+    "Eskrim": [
+      "Fencing Men's Foil, Individual",
+      "Fencing Men's Foil, Team",
+      "Fencing Women's Foil, Individual",
+      "Fencing Women's Foil, Team",
+      "Fencing Men's epee, Individual",
+      "Fencing Men's epee, Team",
+      "Fencing Women's epee, Individual",
+      "Fencing Men's Sabre, Individual",
+      "Fencing Men's Sabre, Team"
+    ],
+  
+    "Binicilik": [
+      "Equestrianism Mixed Dressage, Individual",
+      "Equestrianism Mixed Jumping, Individual",
+      "Equestrianism Mixed Three-Day Event, Individual"
+    ],
+  
+    "Çoklu Disiplin Kombine": [
+      "Athletics Men's Decathlon",
+      "Athletics Women's Heptathlon",
+  
+      "Modern Pentathlon Men's Individual",
+      "Modern Pentathlon Women's Individual",
+  
+      "Nordic Combined Men's Individual",
+      "Nordic Combined Men's Team"
+    ],
+  
+    "Su Araçları Yarışı": {
+      "Kürek": [
+        "Rowing Women's Single Sculls",
+        "Rowing Women's Double Sculls",
+        "Rowing Women's Lightweight Double Sculls",
+        "Rowing Women's Coxless Pairs",
+        "Rowing Women's Coxed Fours",
+        "Rowing Women's Quadruple Sculls",
+        "Rowing Women's Coxed Eights",
+        "Rowing Men's Single Sculls",
+        "Rowing Men's Double Sculls",
+        "Rowing Men's Coxless Pairs",
+        "Rowing Men's Coxless Fours",
+        "Rowing Men's Lightweight Double Sculls",
+        "Rowing Men's Lightweight Coxless Fours",
+        "Rowing Men's Quadruple Sculls",
+        "Rowing Men's Coxed Fours",
+        "Rowing Men's Coxed Eights"
+      ],
+      "Kano ve Kayak": [
+        "Canoeing Men's Canadian Singles, 500 metres",
+        "Canoeing Men's Canadian Singles, Slalom",
+        "Canoeing Men's Canadian Doubles, 500 metres",
+        "Canoeing Men's Canadian Doubles, 1,000 metres",
+        "Canoeing Men's Canadian Doubles, Slalom",
+        "Canoeing Men's Kayak Singles, 500 metres",
+        "Canoeing Men's Kayak Singles, 1,000 metres",
+        "Canoeing Men's Kayak Singles, Slalom",
+        "Canoeing Men's Kayak Doubles, 500 metres",
+        "Canoeing Men's Kayak Doubles, 1,000 metres",
+        "Canoeing Men's Kayak Fours, 1,000 metres",
+        "Canoeing Women's Kayak Singles, 500 metres",
+        "Canoeing Women's Kayak Singles, Slalom",
+        "Canoeing Women's Kayak Doubles, 500 metres",
+        "Canoeing Women's Kayak Fours, 500 metres"
+      ],
+      "Yelken": [
+        "Sailing Men's One Person Dinghy",
+        "Sailing Men's Two Person Dinghy",
+        "Sailing Men's Windsurfer",
+        "Sailing Women's One Person Dinghy",
+        "Sailing Women's Two Person Dinghy",
+        "Sailing Women's Three Person Keelboat",
+        "Sailing Mixed One Person Dinghy",
+        "Sailing Mixed Two Person Dinghy",
+        "Sailing Mixed Two Person Keelboat",
+        "Sailing Mixed Three Person Keelboat",
+        "Sailing Mixed 5.5 metres",
+        "Sailing Mixed Multihull",
+        "Sailing Mixed Two Person Heavyweight Dinghy"
+      ]
+    },
+  
+    "Kış Kayma": {
+      "Alp Disiplini Kayak": [
+        "Alpine Skiing Men's Downhill",
+        "Alpine Skiing Men's Giant Slalom",
+        "Alpine Skiing Men's Slalom",
+        "Alpine Skiing Men's Super G",
+        "Alpine Skiing Women's Downhill",
+        "Alpine Skiing Women's Giant Slalom",
+        "Alpine Skiing Women's Slalom"
+      ],
+      "Bob Yarışı": [
+        "Bobsleigh Men's Two",
+        "Bobsleigh Men's Four",
+        "Bobsleigh Women's Two"
+      ],
+      "Kızak": [
+        "Luge Men's Singles",
+        "Luge Women's Singles",
+        "Luge Mixed (Men)'s Doubles"
+      ],
+      "Kayakla Atlama": [
+        "Ski Jumping Men's Normal Hill, Individual"
+      ]
+    },
+  
+    "Atletizm Teknik": {
+      "Engelli Koşular ve Su Engelli Koşu": [
+        "Athletics Men's 110 metres Hurdles",
+        "Athletics Women's 100 metres Hurdles",
+        "Athletics Men's 400 metres Hurdles",
+        "Athletics Women's 400 metres Hurdles",
+        "Athletics Men's 3,000 metres Steeplechase",
+        "Athletics Women's 3,000 metres Steeplechase"
+      ],
+      "Atlamalar ve Sırıkla Atlama": [
+        "Athletics Men's Long Jump",
+        "Athletics Men's Triple Jump",
+        "Athletics Men's High Jump",
+        "Athletics Men's Pole Vault",
+        "Athletics Women's Long Jump",
+        "Athletics Women's Triple Jump",
+        "Athletics Women's High Jump",
+        "Athletics Women's Pole Vault"
+      ]
+    },
+  
+    "Takım Sporları": {
+      "Futbol": [
+        "Football Men's Football",
+        "Football Women's Football"
+      ],
+      "Basketbol": [
+        "Basketball Men's Basketball",
+        "Basketball Women's Basketball"
+      ],
+      "Voleybol": [
+        "Volleyball Men's Volleyball",
+        "Volleyball Women's Volleyball",
+        "Beach Volleyball Men's Beach Volleyball",
+        "Beach Volleyball Women's Beach Volleyball"
+      ],
+      "Beyzbol ve Softbol": [
+        "Baseball Men's Baseball",
+        "Softball Women's Softball"
+      ],
+      "Hentbol": [
+        "Handball Men's Handball",
+        "Handball Women's Handball"
+      ],
+      "Hokey": [
+        "Hockey Men's Hockey",
+        "Hockey Women's Hockey"
+      ],
+      "Yedili Ragbi": [
+        "Rugby Sevens Men's Rugby Sevens",
+        "Rugby Sevens Women's Rugby Sevens"
+      ],
+      "Buz Hokeyi": [
+        "Ice Hockey Men's Ice Hockey",
+        "Ice Hockey Women's Ice Hockey"
+      ],
+      "Su Topu": [
+        "Water Polo Men's Water Polo",
+        "Water Polo Women's Water Polo"
+      ],
+      "Curling": [
+        "Curling Men's Curling",
+        "Curling Women's Curling"
+      ]
+    },
+  
+    "Raket ve Ağ Sporları": {
+      "Tenis": [
+        "Tennis Men's Singles",
+        "Tennis Men's Doubles",
+        "Tennis Women's Singles"
+      ],
+      "Badminton": [
+        "Badminton Men's Singles",
+        "Badminton Women's Singles",
+        "Badminton Men's Doubles",
+        "Badminton Women's Doubles",
+        "Badminton Mixed Doubles"
+      ],
+      "Masa Tenisi": [
+        "Table Tennis Men's Singles",
+        "Table Tennis Women's Singles"
+      ]
+    }
+  }
+  

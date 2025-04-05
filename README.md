@@ -1,6 +1,6 @@
 # 🎉 Sport_Suggestion Projesine Hoş Geldiniz!
 
-![Madalya Görseli](../assets/madalya.PNG)
+![Madalya Görseli](/assets/madalya.PNG)
 
 🎉 **Şöbiyet Takımı olarak 1. olduk!**  
 Gençlik ve Spor Bakanlığı tarafından düzenlenen Yapay Zeka Hackathonu'nda, "Kişiselleştirilmiş Spor Öneri Platformu" projemizle birincilik elde ettik.
@@ -8,7 +8,7 @@ Gençlik ve Spor Bakanlığı tarafından düzenlenen Yapay Zeka Hackathonu'nda,
 🔗 Yarışma hakkında detaylı bilgiye buradan ulaşabilirsiniz:  
 [https://genchackathon.gsb.gov.tr/guncel-yarismalar/index.html](https://genchackathon.gsb.gov.tr/guncel-yarismalar/index.html)
 
-![Proje Görseli](../assets/derece.png)
+![Proje Görseli](/assets/derece.png)
 
 
 📄 Proje tanıtım dokümanını incelemek isterseniz [buradan PDF'e ulaşabilirsiniz.](../assets/Şöbiyet%20Grubu%20-%20Spor%20Öneri%20Platformu%20Heckhaton%20Proje%20Raporu.pdf)
@@ -24,7 +24,7 @@ Bu proje, **genç bireylerin spora başlama kararı almasını kolaylaştırmak*
 
 Aşağıdaki GIF ile uygulamanın nasıl çalıştığını hızlıca görebilirsiniz:
 
-![Uygulama Kullanımı](../assets/video.gif)
+![Uygulama Kullanımı](/assets/video.gif)
 
 
 ## 🚀 Projeyi Çalıştırma Adımları
